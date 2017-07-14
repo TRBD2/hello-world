@@ -1,2 +1,4 @@
 # hello-world
-Just hello world repository
+Hi Friends,
+
+This is just another brach other than masters
